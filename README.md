@@ -14,3 +14,8 @@ Tips and Tricks
 make an alias for this request
 add the next line to ~/.bashrc
 alias startBox='/dir/to/scripts/startBox.sh myVirtServer 192.168.1.130 username password'
+
+
+Instead of the virtualboxname you can use the box uid.
+To list all virtualBoxes run:
+VBoxManage list vms
