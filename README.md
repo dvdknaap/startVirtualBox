@@ -1,7 +1,7 @@
 start a VirtualBox
 ===============
 
-Start and virtualbox on the background and start an ssh connection to that box
+Start a virtualbox on the background and start an ssh connection to that box
 
 How to start
 ----
